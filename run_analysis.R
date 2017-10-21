@@ -65,4 +65,4 @@ colnames(tidy_dataset)[3:68] <- paste(colnames(tidy_dataset[3:68]), "avg", sep =
 
 # Writes final data set
 
-write.csv(tidy_dataset, "final_dataset.csv", row.names = FALSE)
+write.table(tidy_dataset, "final_dataset.txt", row.names = FALSE)
