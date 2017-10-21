@@ -30,4 +30,5 @@ Processing step included:
   **measurment** denotes the body (**Body**) or gravity (**Grav**) signals coming from the accelerometer (**Acc**)and gyroscope (**Gyro**). Jerk signals are noted with **Jerk** and calculated magnitude with **Mag**
   
   **value** denote mean (**mean**) or standard deviation (**stdev**)
+  
   **axis** is used to denote 3-axial signals in the **X**, **Y** and **Z** directions
